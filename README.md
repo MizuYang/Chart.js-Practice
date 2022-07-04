@@ -9,3 +9,4 @@
   <li>Radar Chart 雷達圖</li>
   <li>Scatter Chart 散點圖</li>
 </ul>
+<img src="https://github.com/MizuYang/Chart.js-Practice/blob/main/src/assets/chart.png?raw=true" alt="Chart 練習圖片">
