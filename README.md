@@ -1,4 +1,4 @@
-<h2>Chart.js 練習 (模組化)</h2>
+<h2><a href="https://mizuyang.github.io/Chart.js-Practice/#/">Chart.js 練習 (模組化)</a></h2>
 <ul>
   <li>Chart 直線圖</li>
   <li>Chart 直線圖</li>
